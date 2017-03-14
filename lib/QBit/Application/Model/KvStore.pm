@@ -52,3 +52,33 @@ sub _check {
 }
 
 TRUE;
+
+__END__
+
+=encoding utf8
+
+=head1 Name
+
+QBit::Application::Model::KvStore - Definition mysql table for key value storage.
+
+=head1 GitHub
+
+https://github.com/QBitFramework/QBit-Application-Model-KvStore
+
+=head1 Install
+
+=over
+
+=item *
+
+cpanm QBit::Application::Model::KvStore
+
+=item *
+
+apt-get install libqbit-application-model-kvstore-perl (http://perlhub.ru/)
+
+=back
+
+For more information. please, see code.
+
+=cut
