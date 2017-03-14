@@ -59,7 +59,7 @@ __END__
 
 =head1 Name
 
-QBit::Application::Model::KvStore - Definition mysql table for key value storage.
+QBit::Application::Model::KvStore - Model for key value storage.
 
 =head1 GitHub
 
